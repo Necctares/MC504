@@ -1,0 +1,1 @@
+cmd_/home/alan/Documentos/MC504/Trab7/descript.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/alan/Documentos/MC504/Trab7/descript.ko /home/alan/Documentos/MC504/Trab7/descript.o /home/alan/Documentos/MC504/Trab7/descript.mod.o;  true
